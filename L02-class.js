@@ -1,4 +1,4 @@
-//same model but different color : using JS Class
+//same model but different colors : using JS Class
 class car {
     constructor(color){
         this.color = color ;
